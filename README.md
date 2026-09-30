@@ -28,7 +28,7 @@ I'm a motivated BCA student with hands-on experience in Python, Data Science, an
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Prakash997&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Prakash997&theme=shadow_green&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top- PYTHON langs/?username=Prakash997&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Prakash997&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Prakash997&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
