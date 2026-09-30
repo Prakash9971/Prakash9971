@@ -64,10 +64,4 @@ I'm a motivated BCA student with hands-on experience in Python, Data Science, an
 
 
 
-📊 GitHub Stats
-
-🏆 GitHub Trophies
-
-👀 Profile Views
-
 ⭐ Thanks for visiting my profile!
