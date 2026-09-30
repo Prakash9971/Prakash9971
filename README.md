@@ -37,31 +37,3 @@ I'm a motivated BCA student with hands-on experience in Python, Data Science, an
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-⭐ Thanks for visiting my profile!
