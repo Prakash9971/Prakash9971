@@ -1,4 +1,4 @@
-👋 Hi, I'm Prakash Kumar
+👋 Hi, I'm **Prakash Kumar**
 
 💫 About Me
 
@@ -28,10 +28,7 @@ I'm a motivated BCA student with hands-on experience in Python, Data Science, an
 ![](https://streak-stats.demolab.com/?user=Prakash997&theme=shadow_green&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Prakash997&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Prakash997&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
 
----
 [![](https://komarev.com/ghpvc/?username=Prakash997&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
